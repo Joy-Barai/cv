@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: rgb(196, 111, 111);
+    font-family: 'Roboto', sans-serif;
+}
+h1,h2,h3{
+    font-family: 'Raleway', sans-serif;
+    color: #26998e;
+}
+.container{
+    max-width: 1200px;
+    background: rgb(172, 175, 128);
+    margin: auto;
+    padding-top: 10px;
+}
+header{
+
+}
+.pimg{
+    width: 120px;
+    height: 110px;
+    border: 2px solid white;
+    border-radius: 30%;
+    float: left;
+    margin-left:5px ;
+   
+
+}
+.bio{
+    float: left;
+    padding: 20px;
+}
+.link a{
+    text-decoration: none;
+    float: right;
+    font-width:bolder;
+    padding-right: 10px;
+    box-sizing: border-box;
+    text-align: left
+    
+}
+.link a:hover{
+    text-decoration: underline;
+    color: tomato;
+}
+
+.clear{
+    clear: both;
+}
+hr{
+    border: 2px solid black;
+    width: 99.5.5%;
+    margin: 5px 0px;
+    margin-bottom: 0;
+}
+/* Heder Section End */
+
+/* main section start */
+
+/* personal information start */
+#personal-sction{
+
+}
+
+.contant{
+
+}
+
+.left{
+    width: 30%;
+    float: left;
+}
+
+.right{
+    width: 70%;
+    float: left;
+    text-align: justify;
+
+}
+
+.comon{
+    margin-bottom: none;
+    padding-bottom: none;
+}
+/* personal informatuion end */
+/* education */
+.edu-left{
+    float: left;
+    width: 45%;
+    
+}
+.edu-right{
+    float: right;
+    width: 45%;
+    
+}
+.ilnk{
+    background: #000;
+    color: blanchedalmond;
+    text-align: center;
+}
+.ilnk a{
+    text-decoration: none;
+    color: #f7f2f2;
+    border: 2px solid #9c7c7c;
+    padding: 1px;
+    margin: 10px 10px;
+}
+.ilnk a:hover{
+    text-decoration: underline;
+    color: tomato;
+}
